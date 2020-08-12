@@ -1,6 +1,5 @@
-[![Linkedin Badge](https://img.shields.io/badge/-vivekvchavan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vivekvchavan)](https://www.linkedin.com/in/vivekvchavan/) [![Twitter Badge](https://img.shields.io/badge/-@vivekc1994-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/vivekc1994)](https://twitter.com/vivekc1994) [![Facebook Badge](https://img.shields.io/badge/-@vivek.c1994-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/vivek.c1994)](https://www.facebook.com/vivek.c1994) 
-
 ### I'm [Vivek Chavan - www.vivekchavan.dev](https://www.vivekchavan.dev)  
+[![Linkedin Badge](https://img.shields.io/badge/-vivekvchavan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vivekvchavan)](https://www.linkedin.com/in/vivekvchavan/) [![Twitter Badge](https://img.shields.io/badge/-@vivekc1994-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/vivekc1994)](https://twitter.com/vivekc1994) [![Facebook Badge](https://img.shields.io/badge/-@vivek.c1994-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/vivek.c1994)](https://www.facebook.com/vivek.c1994) 
 
 
 
